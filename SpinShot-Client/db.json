@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "name": "Itay Hamami",
+      "email": "itay@gmail.com",
+      "password": "12345678",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "name": "harrycart",
+      "email": "cart@gmail.com",
+      "password": "12345678",
+      "isAdmin": false,
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Microsoft Earphones",
+      "price": 80,
+      "category": "Headphones",
+      "description": "The new Microsoft earphones with high quality",
+      "image": "/images/earphones.png"
+    },
+    {
+      "name": "Microsoft Headphones",
+      "price": 120,
+      "category": "Headphones",
+      "description": "The Microsoft new headphones with high quality",
+      "image": "/images/headphones.png",
+      "id": 2
+    }
+  ],
+  "carts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "active": true,
+      "products": [
+        {
+          "id": 2,
+          "name": "Microsoft Headphones",
+          "price": 200,
+          "category": "Headphones",
+          "description": "The Microsoft new headphones with high quality",
+          "image": "/images/Microsoft_Headphones.png",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "userId": 5,
+      "products": [
+        {
+          "id": 2,
+          "name": "Microsoft Headphones",
+          "price": 200,
+          "category": "Headphones",
+          "description": "The Microsoft new headphones with high quality",
+          "image": "/images/Microsoft_Headphones.png",
+          "quantity": 2
+        }
+      ],
+      "active": true,
+      "id": 2
+    }
+  ]
+}

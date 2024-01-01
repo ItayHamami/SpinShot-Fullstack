@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "656d2b73298150d0e958ff61"
+  },
+  "name": "Molten X-Series Handball",
+  "price": 29.99,
+  "category": "Handball Balls",
+  "description": "Official handball for professional matches by Molten.",
+  "image": "/images/molten_x_series.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656d36016d98ea8b07c8fd05"
+  },
+  "name": "Select Ultimate Handball",
+  "price": 35.99,
+  "category": "Handball Balls",
+  "description": "High-quality handball with superior grip from Select.",
+  "image": "/images/select_ultimate.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656de8276d98ea8b07c8fd14"
+  },
+  "name": "Hummel Aerocharge HB 200 Shoes",
+  "price": 79.99,
+  "category": "Shoes",
+  "description": "Hummel handball shoes with advanced cushioning and stability.",
+  "image": "/images/hummel_aerocharge_hb_200.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657091e86d98ea8b07c90782"
+  },
+  "name": "Kempa Attack Two Contender Handball",
+  "price": 27.99,
+  "category": "Handball Balls",
+  "description": "Durable handball suitable for training sessions by Kempa.",
+  "image": "/images/kempa_attack_two_contender.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570924b6d98ea8b07c90787"
+  },
+  "name": "Salming Hawk Handball Shoes",
+  "price": 89.99,
+  "category": "Shoes",
+  "description": "Salming handball shoes designed for speed and agility.",
+  "image": "/images/salming_hawk.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657092a06d98ea8b07c9078a"
+  },
+  "name": "Adidas Stabil Bounce Handball Shoes",
+  "price": 74.99,
+  "category": "Shoes",
+  "description": "Adidas handball shoes with stabilizing technology.",
+  "image": "/images/adidas_stabil_bounce.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570947a6d98ea8b07c90798"
+  },
+  "name": "Select Profcare Handball Resin",
+  "price": 9.99,
+  "category": "Resin",
+  "description": "Premium handball resin for enhanced grip by Select.",
+  "image": "/images/select_resin.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657094d46d98ea8b07c9079b"
+  },
+  "name": "Trimona Handball Resin",
+  "price": 8.99,
+  "category": "Resin",
+  "description": "Handball resin for maximum grip by Trimona.",
+  "image": "/images/trimona_resin.jpg",
+  "__v": 0
+}]

@@ -1,0 +1,44 @@
+.App {
+  text-align: left;
+}
+
+.login{
+  height: 100vh;
+}
+
+
+nav img{
+  width: 80px;
+  height: 80px;
+  object-fit: cover             ;
+}
+nav{ 
+  background-color: #f3ca40;
+}
+.navbar-nav .nav-link{
+color:#1d3461
+
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fullscreen-image {
+  position: relative;
+  height: 70vh;
+  overflow: hidden;
+}
+
+.fullscreen-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  animation: fadeIn 3s ease-in-out 1s;
+}
+
+

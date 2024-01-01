@@ -1,0 +1,37 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css";
+
+
+
+body {
+    font-family: 'Cabin', sans-serif;
+    color: #1d3461;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Sansita', sans-serif;
+    color: #1f487e;
+  }
+  
+  h4, h5, h6 {
+    font-family: 'Fira Sans SemiBold', sans-serif;
+    color: #247ba0;
+  }
+  
+  p {
+    color: #1d3461;
+  }
+  .btn {
+    background-color: #f3ca40;
+    color: #1d3461;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Fira Sans SemiBold', sans-serif;
+  }
+  
+  .btn:hover {
+    background-color: #f4a261;
+  }
+  
