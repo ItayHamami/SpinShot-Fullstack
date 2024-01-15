@@ -4,8 +4,8 @@ SpinShot central is an internet store focused on handball gear.
 
 ## Users for Testing
 
-- Admin user: admin@gmail.com, password: 12345678
-- Regular user: regular@gmail.com, password: 12345678
+- Admin user: itay@gmail.com, password: 12345678
+- Regular user: test@gmail.com, password: 12345678
 
 ## Features
 
